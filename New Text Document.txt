@@ -1,0 +1,3 @@
+ 1.git clone url(this will clone project from cloud to yourmachine
+ 2.git status {should show changes on your local repositury
+ 
